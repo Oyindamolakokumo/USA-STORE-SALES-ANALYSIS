@@ -7,6 +7,8 @@ This project provides a comprehensive data analysis of a USA-based retail storeâ
 * **Revenue Analysis:** Focuses on high-level financial KPIs, regional performance, and sales channel effectiveness.
 * **Order Analysis:** Deep dives into logistics, discount correlations, and customer-level profitability.
 
+<img width="469" height="536" alt="USA STORE SALES DASHBOARD Screenshot " src="https://github.com/user-attachments/assets/a0cbe7bf-cbd9-4b8b-be2f-0fb67562b2b6" />
+
 ### Problem Statement
 Despite achieving a healthy **29% net profit margin**, the business faces three primary challenges:
 1.  **Logistics Delays:** An average delivery time of **20.67 days** poses a risk to customer retention.
@@ -18,9 +20,6 @@ Despite achieving a healthy **29% net profit margin**, the business faces three 
 * **Data Visualization:** Power BI (as seen in the dashboard captures)
 * **Data Processing:** Excel/Power Query (for transformation)
 * **Analysis:** Statistical correlation of discounts vs. revenue and trend analysis.
-
-### Dashboard Image
-<img width="469" height="536" alt="USA STORE SALES DASHBOARD Screenshot " src="https://github.com/user-attachments/assets/a0cbe7bf-cbd9-4b8b-be2f-0fb67562b2b6" />
 
 
 ### Key Insights & Findings
