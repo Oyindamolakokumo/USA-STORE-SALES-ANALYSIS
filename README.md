@@ -19,7 +19,7 @@ Despite achieving a healthy **29% net profit margin**, the business faces three 
 * **Data Processing:** Excel/Power Query (for transformation)
 * **Analysis:** Statistical correlation of discounts vs. revenue and trend analysis.
 
-### Dashboard screenshot
+### Dashboard Image
 <img width="469" height="536" alt="USA STORE SALES DASHBOARD Screenshot " src="https://github.com/user-attachments/assets/a0cbe7bf-cbd9-4b8b-be2f-0fb67562b2b6" />
 
 
@@ -43,17 +43,10 @@ Despite achieving a healthy **29% net profit margin**, the business faces three 
 * **Delivery Lag:** The average delivery window of **20.67 days** is the most significant operational weakness identified.
 
 ### Strategic Recommendations
-* ** Logistics Overhaul:** Prioritize a review of the "Last Mile" delivery process to reduce the 20-day lag. Shorter delivery times will likely increase the lifetime value of the 50 key high-value customers.
-* ** Discount Optimization:** Phase out deep discounting strategies. Focus marketing efforts on "Value-Add" promotions for top-tier products like Refrigerators.
-* ** Regional Expansion:** Replicate the California sales model in New York and Florida. Conduct a gap analysis to see why New York revenue ($4M) lags so far behind California.
-* ** Customer Retention:** Develop a loyalty program specifically for top-tier accounts like **Medline** ($0.62M profit contribution) to protect the most profitable revenue streams.
-
-### Repository Structure
-```text
-├── Data/               # Raw and Processed Datasets
-├── Visuals/            # Dashboard Screenshots (IMG_1862.jpg)
-└── README.md           # Project Summary & Insights
-```
+* **Logistics Overhaul:** Prioritize a review of the "Last Mile" delivery process to reduce the 20-day lag. Shorter delivery times will likely increase the lifetime value of the 50 key high-value customers.
+* **Discount Optimization:** Phase out deep discounting strategies. Focus marketing efforts on "Value-Add" promotions for top-tier products like Refrigerators.
+* **Regional Expansion:** Replicate the California sales model in New York and Florida. Conduct a gap analysis to see why New York revenue ($4M) lags so far behind California.
+* **Customer Retention:** Develop a loyalty program specifically for top-tier accounts like **Medline** ($0.62M profit contribution) to protect the most profitable revenue streams.
 
 **Developed by:** []
 *Expertise in Data Analysis, Retail Insights, and Business Intelligence.*
