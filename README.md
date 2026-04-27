@@ -47,5 +47,5 @@ Despite achieving a healthy **29% net profit margin**, the business faces three 
 * **Regional Expansion:** Replicate the California sales model in New York and Florida. Conduct a gap analysis to see why New York revenue ($4M) lags so far behind California.
 * **Customer Retention:** Develop a loyalty program specifically for top-tier accounts like **Medline** ($0.62M profit contribution) to protect the most profitable revenue streams.
 
-**Developed by:** []
+**Developed by:** [https://github.com/Oyindamolakokumo]
 *Expertise in Data Analysis, Retail Insights, and Business Intelligence.*
